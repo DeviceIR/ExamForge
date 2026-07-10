@@ -73,9 +73,10 @@ export function StatCard({
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay, duration: 0.4 }}
+      className="h-full"
     >
-      <Card className="relative overflow-hidden card-hover">
-        <div className="flex items-center justify-between p-5">
+      <Card className="relative h-full overflow-hidden card-hover">
+        <div className="flex h-full items-center justify-between p-5">
           <div>
             <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
               {label}
