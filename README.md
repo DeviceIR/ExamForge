@@ -6,12 +6,13 @@
 
 A bilingual (English 🇬🇧 / Persian 🇮🇷), fully RTL-aware exam platform built with Next.js 14, TypeScript, and Zustand.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-exam--forge-7c3aed?logo=vercel)](https://exam-forge-inky.vercel.app/)
 [![CI](https://github.com/DeviceIR/exam-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/DeviceIR/exam-forge/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-[Live Demo](#) · [Report Bug](https://github.com/DeviceIR/exam-forge/issues) · [Author](https://github.com/DeviceIR)
+**[🌐 Live Demo](https://exam-forge-inky.vercel.app/)** · [Report Bug](https://github.com/DeviceIR/exam-forge/issues) · [Author](https://github.com/DeviceIR)
 
 </div>
 
