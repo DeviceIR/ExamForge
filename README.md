@@ -25,10 +25,19 @@ ExamForge is a client-side, local-first exam preparation platform. Users create 
 
 ## 🖼️ Screenshots
 
-<!-- Replace with real screenshots / GIFs -->
-| Dashboard | Exam runner | Library |
-|-----------|-------------|---------|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+> Shown in Persian (RTL) to highlight full bilingual & right-to-left support.
+
+**Dashboard**
+
+![Dashboard](./docs/screenshots/dashboard.png)
+
+**Exam runner**
+
+![Exam runner](./docs/screenshots/exam-runner.png)
+
+**Library — question editor**
+
+![Library](./docs/screenshots/library.png)
 
 ## 🚀 Features
 
